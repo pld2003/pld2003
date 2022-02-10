@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pld2003
 - 👀 I’m interested in 游戏制作
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
